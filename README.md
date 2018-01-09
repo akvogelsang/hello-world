@@ -1,4 +1,6 @@
 # hello-world
-Test repository
+Testing
 
-Hello, this is a test for how to make and committ changes.
+This is a test for how to make and committ changes.
+
+Hello!
